@@ -1,0 +1,9 @@
+git checkot -b
+
+fast only works if there has not been commits on the first oringal branch while the new branch is being actively worked on
+
+git checkout
+
+git branch -D
+
+Git cannot see or find the what file or folder to choose when combining because of diffrent Commits to the Same File
